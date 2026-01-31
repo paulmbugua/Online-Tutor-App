@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 import Package from './models/Package.js'; // Path to your Package model
 
 // MongoDB connection URI
-const mongoURI = 'mongodb+srv://paulpep2002:kxzUOtSIqmr8R23c@supatoto.bbaim.mongodb.net/?retryWrites=true&w=majority&appName=supatoto'; // Replace with your MongoDB URI
+const mongoURI = 'mongodb+srv://**********************'; // Replace with your MongoDB URI
 
 // Package data to insert
 const packages = [
